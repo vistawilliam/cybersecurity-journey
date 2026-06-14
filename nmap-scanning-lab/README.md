@@ -34,7 +34,7 @@ This scan checks the most common ports on the local machine and identifies wheth
 
 ### Screenshot
 
-![Basic Localhost Scan](localhost-basic-scan.png)
+![Basic Localhost Scan](screenshots/localhost-basic-scan.png)
 
 ## Scan 2: Service Version Detection
 
@@ -50,7 +50,7 @@ The `-sV` option attempts to detect the service and version running on open port
 
 ### Screenshot
 
-![Service Version Scan](localhost-service-scan.png)
+![Service Version Scan](screenshots/localhost-service-scan.png)
 
 ## Nmap Version
 
@@ -62,7 +62,7 @@ nmap --version
 
 ### Screenshot
 
-![Nmap Version](nmap-version.png)
+![Nmap Version](screenshots/nmap-version.png)
 
 ## What I Learned
 
