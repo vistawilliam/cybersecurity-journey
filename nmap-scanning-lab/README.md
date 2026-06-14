@@ -64,6 +64,23 @@ nmap --version
 
 ![Nmap Version](screenshots/nmap-version.png)
 
+## Findings
+
+The basic Nmap scan against `localhost` showed that the host was up and responding.
+
+The scan identified several open TCP ports on the local machine:
+
+- `135/tcp` - msrpc
+- `445/tcp` - microsoft-ds
+- `902/tcp` - iss-realsecure
+- `912/tcp` - apex-mesh
+
+## Analysis
+
+Port `135/tcp` and `445/tcp` are commonly associated with Windows networking services. Since this scan was performed against my own Windows machine, these results are expected.
+
+This lab helped me understand how Nmap can be used to identify open ports and exposed services on a target system. In a real security environment, open ports should be reviewed to confirm whether they are required and properly secured.
+
 ## What I Learned
 
 * How to verify Nmap installation
