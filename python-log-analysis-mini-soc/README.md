@@ -36,3 +36,5 @@ This project simulates a basic SOC analyst task by analyzing log entries and ide
 ## Script Output
 
 ![Mini SOC analysis output](screenshots/soc-analysis-output.png)
+
+Completed — the script was executed successfully against simulated authentication logs.
