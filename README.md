@@ -32,3 +32,30 @@ This repository documents my progress as I build practical cybersecurity skills 
 - Web Enumeration Lab
 - Threat Intelligence Notes
 - SOC Investigation Scenarios
+
+  ## Portfolio Projects
+
+### Network Fundamentals Lab
+
+Basic networking concepts and command-line evidence using Ping, DNS lookup, and Traceroute.
+
+[View project](network-fundamentals-lab/README.md)
+
+### Nmap Scanning Lab
+
+Localhost scanning and service discovery using Nmap, including findings and screenshots.
+
+[View project](nmap-scanning-lab/README.md)
+
+### Python Log Analysis Mini SOC
+
+Python-based log analysis project that detects repeated failed login attempts and flags suspicious IP addresses.
+
+[View project](python-log-analysis-mini-soc/README.md)
+
+### Authorized Web-Service Enumeration Lab
+
+Nmap service and version detection against the authorized Nmap practice target, `scanme.nmap.org`.
+
+[View project](web-service-enumeration-lab/README.md)
+
