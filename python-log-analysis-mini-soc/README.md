@@ -33,4 +33,6 @@ This project simulates a basic SOC analyst task by analyzing log entries and ide
 
 ## Status
 
-In Progress
+## Script Output
+
+![Mini SOC analysis output](screenshots/soc-analysis-output.png)
